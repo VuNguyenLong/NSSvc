@@ -1,0 +1,1 @@
+lib /OUT:libs.lib pipeline.lib libfftw3f-3.lib tensorflowlite_c.dll.if.lib
